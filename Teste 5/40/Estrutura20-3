@@ -1,0 +1,32 @@
+Numero de dias: 20
+Version Cplex: 20.1.0.0
+Cria VarX: 
+Cria VarVitA: 
+Cria VarFerroM: 
+Cria VarLegVer: 
+Cria Var Prato Principal: 
+Cria Rest Composicao Breakfest:
+Cria Rest Composicao Lunch:
+Cria Rest Composicao Snack:
+Cria Rest Composicao Dinner:
+Cria Rest FerroM:
+Cria Rest VitA:
+Cria Rest Verduras e Legumes:
+Cria Rest Combinacoes:
+Cria Rest Rejeicoes:
+Cria Rest de Variedade dias diferentes tipo:
+Cria Rest de Variedade dias diferentes prato janela:
+Cria Rest de Varidade Ingrediente mesmo dia:
+Cria Rest de Varidade Ingrediente dia diferente:
+Cria Rest de custo total:
+Cria Rest de Limites de macronutrientes: 
+Cria Rest de ferro nao M e vitamina C: 
+Cria Rest Min Verduras, legumes e fruta: 
+Cria Rest Laticinios adocados: 
+Cria Rest de limites de gorduras
+Cria Rest de limites de acucar adicionado
+Cria Rest de minimo de alimentos in natura
+Cria Rest de limite de margarina
+Cria Rest de limite de prodCarneos
+Num Variáveis: 10200
+Num Restrições: 7387
